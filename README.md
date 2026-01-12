@@ -1,5 +1,6 @@
 
-# 🧭 VisionSentinel – Intruder Detection System
+# 🧭 
+
 
 ## 🏷️1. Project Title
 
